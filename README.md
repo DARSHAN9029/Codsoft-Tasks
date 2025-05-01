@@ -30,6 +30,8 @@ The **SMS Spam Classifier** is a machine learning model built to classify text m
 - Feature extraction using TF-IDF
 - Model evaluation (accuracy, precision, recall, etc.)
 
+### Hosted Link
+    https://email-sms-spam-ham-classifier.onrender.com/
 ---
 
 ## 2. Movie Genre Prediction
