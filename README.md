@@ -58,6 +58,8 @@ The **Movie Genre Prediction** model predicts the genre of a movie based on its 
 - Genre prediction based on movie plot descriptions
 - Model evaluation using metrics like accuracy and F1-score
 
+![image](https://github.com/user-attachments/assets/17739139-3df7-4200-b6ec-7f8d7dae19a3)
+
 ---
 
 ## 3. Credit Card Fraud Detection
