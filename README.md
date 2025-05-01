@@ -32,6 +32,9 @@ The **SMS Spam Classifier** is a machine learning model built to classify text m
 
 ### Hosted Link
     https://email-sms-spam-ham-classifier.onrender.com/
+
+![image](https://github.com/user-attachments/assets/3a85fac3-b5f0-42ea-b4cd-4fa1bc0c33bb)
+
 ---
 
 ## 2. Movie Genre Prediction
